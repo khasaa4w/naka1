@@ -1,0 +1,1 @@
+steps:- name: gcr.io/cloud-builders/git  args: ['clone', 'https://github.com/https://github.com/khasaa4w/naka1.git']
